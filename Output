@@ -1,0 +1,7 @@
+Enter file path: sample.txt
+SHA-256 Hash: 3a7bd3e2360a3d29...
+
+Modify the file and press Enter to verify:
+New SHA-256 Hash: 9f86d081884c7d65...
+
+WARNING: File has been modified!
